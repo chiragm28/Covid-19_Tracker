@@ -5,3 +5,4 @@
 3. Utilized React Components and Chart.js to dynamically visualize deaths, recoveries, and infections due to covid-
   19 over time globally and by country
 
+![Screen Shot 2021-03-04 at 5 19 35 PM](https://user-images.githubusercontent.com/30934758/111818896-130d5b80-88b6-11eb-8455-1af5487cf398.png)
